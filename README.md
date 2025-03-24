@@ -45,3 +45,10 @@ Change the mode in settings screen
   - **Model**: This part handles the task data stores it in the Room database.
   - **ViewModel**: This acts like a bridge between the UI and the data. It takes care of all the logic, runs background tasks, and provides data to the UI.
   - **View**: These are the Composable functions that make up the UI. They get data from the ViewModel and display it to the user.
+
+
+ #### Schema Diagram
+
+ 
+
+![Schema](https://github.com/user-attachments/assets/98567fa6-2422-4281-9a53-1bade267fd3f)
