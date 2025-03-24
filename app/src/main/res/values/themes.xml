@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Todo" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.YourApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Base application theme for dark mode -->
+    <style name="Theme.YourApp.Dark" parent="android:ThemeOverlay.Material.Dark.ActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Base application theme for system mode -->
+
+
+</resources>
